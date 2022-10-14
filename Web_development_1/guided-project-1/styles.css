@@ -12,8 +12,20 @@ p span {
     color: maroon;
 }
 
+.price-topic {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 /* ---- for images --------- */
 .image-cake {
     float: right;
     width: 300px;
+}
+
+/* ---- for table ---------- */
+.price-table {
+    width: 100%;
+    border: 1px solid black;
+    text-align: left;
 }
