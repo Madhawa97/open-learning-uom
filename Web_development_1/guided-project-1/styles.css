@@ -1,5 +1,6 @@
 body {
-    background-color: lightblue;
+    background-color: #e6f3ff;
+    padding: 12%;
 }
 
 .tagline {
@@ -15,6 +16,7 @@ p span {
 .price-topic {
     font-size: 25px;
     font-weight: bold;
+    padding-top: 150px;
 }
 
 /* ---- for images --------- */
@@ -29,6 +31,11 @@ p span {
     border: 1px solid black;
     text-align: left;
 }
+
+.price-table th, .price-table td {
+        padding: 1;
+}
+
 
 footer {
     text-align: center;
