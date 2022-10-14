@@ -11,3 +11,9 @@ p span {
     font-weight: bold;
     color: maroon;
 }
+
+/* ---- for images --------- */
+.image-cake {
+    float: right;
+    width: 300px;
+}
