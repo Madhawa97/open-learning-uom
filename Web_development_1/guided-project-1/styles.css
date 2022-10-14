@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+.tagline {
+    color: blueviolet;
+    font-style: italic;
+}
+
+p span {
+    font-weight: bold;
+    color: maroon;
+}
